@@ -1,0 +1,4 @@
+language: php
+
+git:
+  depth: 2
